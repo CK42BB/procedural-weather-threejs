@@ -1,4 +1,4 @@
-# Procedural Weather — Teaching Three.js Skill
+# Procedural Weather — Three.js Skill
 
 A Claude Code skill for generating dynamic procedural weather systems in Three.js, with **GPU particle precipitation**, volumetric fog, lightning, optical effects, and smooth state transitions. **WebGPU compute with WebGL2 fallback**.
 
